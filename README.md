@@ -28,13 +28,7 @@ Hence it clearly indicates that there is overfitting in the model using Linear r
 - On applying the Ridge and Lasso regularization we see that there is significant improvement in the r2 score of taring set and testing 
 - Optimal value of alpha for Ridge Regularization is 5.05050505050505 and Optimal value of alpha for Lasso regularization  is 0.10101010101010101.
 
-	Parameter 	     Linear Regression  	Ridge Regularization 	Lasso Regularization
-0 	r2_score_train 	    9.285130e-01 	       0.924856         	0.745707
-1 	r2_score_test 	    -2.636018e+21      	   0.806772 	        0.772397
-2 	mse_score_train 	7.148703e-02           0.075144 	        0.254293
-3 	mse_score_test   	3.164060e+21 	       0.231935 	        0.273196
-4 	rmse_score_train 	2.673706e-01 	       0.274124         	0.504274
-5 	rmse_score_test 	5.624997e+10 	       0.481596 	        0.522682
+![Alt text](image.png)
 
 ## Recommendation
 
