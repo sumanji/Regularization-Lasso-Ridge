@@ -29,8 +29,6 @@ Hence it clearly indicates that there is overfitting in the model using Linear r
 - Optimal value of alpha for Ridge Regularization is 5.05050505050505 and Optimal value of alpha for Lasso regularization  is 0.10101010101010101.
 
 
-
-
 ## Recommendation
 
 - Figure out the overfitting problem using plain Linear Regression model
